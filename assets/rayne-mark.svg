@@ -1,0 +1,18 @@
+<svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Rayne Beauty mark</title>
+  <desc id="desc">Circular gold Rayne Beauty monogram mark.</desc>
+  <defs>
+    <linearGradient id="gold" x1="32" y1="18" x2="148" y2="160" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F5DEC0"/>
+      <stop offset="0.36" stop-color="#D8B878"/>
+      <stop offset="0.72" stop-color="#AE7E4C"/>
+      <stop offset="1" stop-color="#F1D7AD"/>
+    </linearGradient>
+  </defs>
+  <rect width="180" height="180" rx="90" fill="#090707"/>
+  <circle cx="90" cy="90" r="69" stroke="url(#gold)" stroke-width="1.4" opacity="0.74"/>
+  <circle cx="90" cy="90" r="55" stroke="#F4DEC0" stroke-width="0.8" opacity="0.22"/>
+  <path d="M89 37C81 51 66 60 42 62C61 70 80 66 91 52C102 66 121 70 140 62C116 60 101 51 89 37Z" fill="url(#gold)" opacity="0.95"/>
+  <path d="M90 30C86 40 87 49 91 56C96 48 96 40 90 30Z" fill="#F5DEC0"/>
+  <text x="90" y="119" text-anchor="middle" fill="url(#gold)" font-family="Cormorant Garamond, Georgia, serif" font-size="82" font-weight="600">R</text>
+</svg>
